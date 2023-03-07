@@ -9,5 +9,6 @@ USE codeup_test_db;
     release_date SMALLINT UNSIGNED,
     sales FLOAT,
     genre VARCHAR(128),
+    UNIQUE albums_and_artist (artist, name),
     PRIMARY KEY (id)
     );
