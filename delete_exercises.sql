@@ -1,7 +1,7 @@
 USE codeup_test_db;
 
 -- First:
-SELECT * FROM albums WHERE release_date > 1991;
+SELECT * FROM albums WHERE release_date > 2000;
 -- Convert to:
 DELETE FROM albums WHERE release_date > 1991;
 
