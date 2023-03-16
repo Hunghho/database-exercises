@@ -31,8 +31,8 @@ VALUES ('Michael Jackson','Thriller','1982','Pop/Rock/R&B','47.3'),
 ('Metallica','Metallica','1991','Thrash metal/Heavy metal','21.2'),
 ('Nirvana','Nevermind','1991','Grunge/Alternative rock','16.7'),
 ('Pink Floyd','The Wall','1979','Progressive rock','17.6'),
-('Santana', 'Supernatural', 1999, 'Rock', 20.5),
-('Guns N'' Roses', 'Appetite for Destruction', 1987, 'Hard rock', 21.6);
+('Santana', 'Supernatural', 1999, 'Rock', 20.5);
+
 
 
 
